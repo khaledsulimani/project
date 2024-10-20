@@ -55,3 +55,21 @@ A: Absolutely! The HTML and JavaScript code is open for you to customize and enh
 
 If you encounter any issues or have suggestions for improvements, please contact us at [https://forms.gle/WejQpkT2eUXg5jX29]. We appreciate your feedback!
 
+## Troubleshooting
+
+If you encounter any issues while playing Puzzle UQU, try the following solutions:
+
+### Common Issues:
+
+1. Tiles not moving:
+   - Ensure you're clicking tiles adjacent to the empty space.
+   - Try refreshing the browser or restarting the puzzle.
+
+2. Game stuck or not resetting:
+   - Clear your browser's cache and reload the page.
+   - If using a mobile device, try switching to a desktop browser.
+
+3. Timer not working:
+   - Check if JavaScript is enabled in your browser.
+
+If the problem persists, please reach out via [Support]
