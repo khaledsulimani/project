@@ -13,6 +13,7 @@ Welcome to **Puzzle UQU**, a fun and engaging HTML-based puzzle game! Puzzle UQU
 - [Tips and Strategies](#tips-and-strategies)
 - [FAQs](#faqs)
 - [Support](#support)
+- [Troubleshooting](#troubleshooting)
 
 ## Game Features
 
